@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Carte is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Carta provides an end‑to‑end suite for private capital markets, offering cap table management, equity plan administration, fund accounting, compliance, and a robust API platform for developers to integrate equity data, valuations, and workflow automation across investors, companies, and service providers.
+
+**Areas:** Company · Finance · Equity · FundManagement
+
+## Carte on APIs.io
+
+Everything profiled for Carte is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/carte/](https://apis.io/providers/carte/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Carta API](https://apis.io/apis/carte/carta-api/) — API platform for private capital markets, providing endpoints for equity data, valuations, and workflow automation.
+- [Carte V1Alpha1 API](https://apis.io/apis/carte/carte-v1alpha1-api/) — The V1Alpha1 API from Carte — 10 operation(s) for v1alpha1.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostV1Alpha1FilesUploadResponse](https://apis.io/schemas/carte/carte-post-v1-alpha1-files-upload-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Carte Context](https://apis.io/jsonld/carte/carte-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Carte API Rules](https://apis.io/rules/carte/carte-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Carte Authentication](https://apis.io/security/carte/carte-authentication/)
+- [Carte Domain Security](https://apis.io/security/carte/carte-domain-security/)
+- [Carte Trust Center](https://apis.io/security/carte/carte-trust-center/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Carte Rate Limits](https://apis.io/rate-limits/carte/carte-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://carta.com)
+- [Documentation](https://docs.carta.com/)
+- [Getting started](https://docs.carta.com/api-platform/guides/getting-started/introduction)
+- [API reference](https://docs.carta.com/api-platform/reference/v-1-alpha-1-draft-issuers-create-draft-issuer)
+- [Blog](https://carta.com/blog/)
+- [Security](https://carta.com/security/generative-ai-at-carta/)
+- [Compliance](https://trust.carta.com/)
+- [Privacy policy](https://carta.com/privacy/)
+- [GitHub](https://github.com/carta)
+- [Status](https://status.carta.com/)
+
+## API Evangelist rating
+
+**Kin Score 37.1** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 17.6 |
+| Contract governance | 22.0 |
+| Operational transparency | 52.6 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 39.5 |
+
+**Agent readiness 30.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/carte/](https://apis.io/providers/carte/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Carte: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/carte/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
